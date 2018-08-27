@@ -1,0 +1,18 @@
+class UniqueChars(object):
+    """
+    Return weather or not a string has all unique characters.
+    
+    None -> False
+    '' -> True
+    'foo' -> False
+    'bar' -> True
+    """
+    
+    def has_unique_chars(self, string):
+        if string = '' or None:
+            return False
+        for char in string:
+            if char.count(char) > 1:
+                return False
+            else:
+                return True
