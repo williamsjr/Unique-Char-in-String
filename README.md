@@ -1,2 +1,2 @@
-# Unique-Char-in-String
-An algorithm that determines if a string has all unique characters
+# Weekly and Monthly wage calculator 
+determines monthly and weekly wage before and after tax
